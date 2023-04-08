@@ -35,27 +35,4 @@ Also, there are situations where there are no safe spots for the player to move,
 
 I thought the assignment was fun and challenging. It was a good way to get familiar with the programming environment and the C++ codebase. It also helped me understand how to use the game engine work and how to write an AI for a game. I think it met its goals because it was meant to be a familiarization task and it checked all the boxes.
 
-## Poem
-```text
-In this game of missiles, we dance with fate
-As projectiles rain down from a fiery gate
-Each frame counts, each move a gamble
-As we try to avoid the missile's deadly ramble
-
-We dodge and weave with limited speed
-As missiles chase us with a vengeful greed
-Our hearts race with each calculated step
-As we try to cheat death with every move
-
-The sky above is a fiery maelstrom
-As the missiles explode with a deafening bang
-We fight to survive with all our might
-As the battlefield turns into a never-ending fight
-
-Yet amidst the chaos and the endless rain
-We find a moment to pause and regain
-Our spirits lift with each narrow escape
-As we triumph over each missile's deadly fate
-```
-
 
